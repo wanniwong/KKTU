@@ -1,0 +1,430 @@
+{
+  "Medical" : {
+    "mainQueue" : [ {
+      "element" : {
+        "called" : false,
+        "patientType" : "Appointment",
+        "qNumber" : 6005,
+        "recall" : false,
+        "roomNo" : 14,
+        "serviceType" : "Vision Test"
+      },
+      "priority" : 1
+    } ]
+  },
+  "patient" : {
+    "3lGaE57Ih9bYD4QDTeT7X86c8kK2" : {
+      "ewallet" : {
+        "deduct" : 1,
+        "payment" : false,
+        "remain" : 0,
+        "topup" : 20
+      },
+      "medicineDetails" : {
+        "called" : false,
+        "counterNo" : "",
+        "getQnum" : false,
+        "icNo" : "971230565230",
+        "position" : "",
+        "qNumber" : "",
+        "recall" : false,
+        "scanned" : false
+      },
+      "online" : true,
+      "queueDetails" : {
+        "called" : false,
+        "cancel" : false,
+        "drName" : "",
+        "getQnum" : false,
+        "position" : "",
+        "queueNo" : "",
+        "recall" : false,
+        "roomNo" : "",
+        "service" : ""
+      },
+      "userInfo" : {
+        "address" : "1, Jalan Ara",
+        "age" : "22",
+        "email" : "brenda@gmail.com",
+        "gender" : "Female",
+        "getQueue" : false,
+        "ic" : "971230565230",
+        "name" : "Brenda",
+        "nationality" : "Malaysian",
+        "occupation" : "",
+        "password" : "000000",
+        "phone_no" : "0112345678",
+        "race" : "Chinese",
+        "userId" : "3lGaE57Ih9bYD4QDTeT7X86c8kK2",
+        "user_type" : "Appointment"
+      }
+    },
+    "6XHUnkgi1sMqDec0ouU65hPmJYf2" : {
+      "ewallet" : {
+        "deduct" : 1,
+        "payment" : true,
+        "remain" : 0,
+        "topup" : 50
+      },
+      "medicineDetails" : {
+        "called" : false,
+        "counterNo" : "",
+        "getQnum" : false,
+        "icNo" : "96271903732899929",
+        "position" : "",
+        "qNumber" : "",
+        "recall" : false,
+        "scanned" : false
+      },
+      "online" : false,
+      "queueDetails" : {
+        "called" : false,
+        "cancel" : false,
+        "drName" : "",
+        "getQnum" : false,
+        "position" : "",
+        "queueNo" : "",
+        "recall" : false,
+        "roomNo" : "",
+        "service" : ""
+      },
+      "userInfo" : {
+        "address" : "Hsjssj",
+        "age" : "999",
+        "email" : "winsonlim1028@gmail.com",
+        "fixed_type" : "OKU",
+        "gender" : "Male",
+        "ic" : "96271903732899929",
+        "name" : "Muhammad abu bakar",
+        "nationality" : "Malaysian",
+        "occupation" : "Lecturer",
+        "password" : "misolenglui",
+        "phone_no" : "Jsjjajasb",
+        "race" : "Indian",
+        "userId" : "6XHUnkgi1sMqDec0ouU65hPmJYf2",
+        "user_type" : "Appointment"
+      }
+    },
+    "6wzkl2udrSVQ5vX8mbRig26Pldq1" : {
+      "ewallet" : {
+        "deduct" : 1,
+        "payment" : false,
+        "remain" : 6,
+        "topup" : 50
+      },
+      "medicineDetails" : {
+        "called" : false,
+        "counterNo" : "",
+        "getQnum" : false,
+        "icNo" : "971221-23-4516",
+        "position" : "",
+        "qNumber" : "",
+        "recall" : false,
+        "scanned" : false
+      },
+      "online" : true,
+      "queueDetails" : {
+        "called" : false,
+        "cancel" : false,
+        "drName" : "",
+        "getQnum" : false,
+        "position" : "",
+        "queueNo" : "",
+        "recall" : false,
+        "roomNo" : "",
+        "service" : ""
+      },
+      "userInfo" : {
+        "address" : "26, KTDI",
+        "age" : "22",
+        "email" : "jy@gmail.com",
+        "fixed_type" : "Other",
+        "gender" : "Female",
+        "ic" : "971221-23-4516",
+        "name" : "HIEW JIA YEE",
+        "nationality" : "Malaysian",
+        "occupation" : "Student",
+        "password" : "000000",
+        "phone_no" : "0126683606",
+        "race" : "Chinese",
+        "userId" : "6wzkl2udrSVQ5vX8mbRig26Pldq1",
+        "user_type" : "Other"
+      }
+    },
+    "EnlGxtEHF9cGpunTaff1lXelP872" : {
+      "ewallet" : {
+        "deduct" : 1,
+        "payment" : false,
+        "remain" : 0,
+        "topup" : 0
+      },
+      "medicineDetails" : {
+        "called" : false,
+        "counterNo" : "",
+        "getQnum" : false,
+        "icNo" : "971111016767",
+        "position" : "",
+        "qNumber" : "",
+        "recall" : false,
+        "scanned" : false
+      },
+      "online" : false,
+      "queueDetails" : {
+        "called" : false,
+        "cancel" : false,
+        "drName" : "",
+        "getQnum" : false,
+        "position" : "",
+        "queueNo" : "",
+        "recall" : false,
+        "roomNo" : "",
+        "service" : ""
+      },
+      "userInfo" : {
+        "address" : "Singapore",
+        "age" : "20",
+        "email" : "joyous@gmail.com",
+        "fixed_type" : "Other",
+        "gender" : "Female",
+        "ic" : "971111016767",
+        "name" : "Joyous",
+        "nationality" : "Malaysian",
+        "occupation" : "Student",
+        "password" : "5201314",
+        "phone_no" : "0108833897",
+        "race" : "Chinese",
+        "userId" : "EnlGxtEHF9cGpunTaff1lXelP872",
+        "user_type" : "Other"
+      }
+    },
+    "VNh5o0uABphJDPPKl7DIDTSy0yP2" : {
+      "ewallet" : {
+        "deduct" : 1,
+        "payment" : false,
+        "remain" : 266,
+        "topup" : ""
+      },
+      "medicineDetails" : {
+        "called" : false,
+        "counterNo" : "",
+        "getQnum" : false,
+        "icNo" : "970102135916",
+        "position" : "",
+        "qNumber" : "",
+        "recall" : false,
+        "scanned" : false
+      },
+      "online" : true,
+      "queueDetails" : {
+        "called" : false,
+        "cancel" : false,
+        "drName" : "",
+        "getQnum" : false,
+        "position" : "",
+        "queueNo" : "",
+        "recall" : false,
+        "roomNo" : "",
+        "service" : ""
+      },
+      "userInfo" : {
+        "address" : "Lot 5013, Taman Wawasan, Jalan Bakam, 98000 Miri, Sarawak.",
+        "age" : "22",
+        "email" : "irene@gmail.com",
+        "fixed_type" : "Other",
+        "gender" : "Female",
+        "ic" : "970102135916",
+        "name" : "Irene",
+        "nationality" : "Malaysian",
+        "occupation" : "Student",
+        "password" : "000000",
+        "phone_no" : "0198194932",
+        "race" : "Chinese",
+        "userId" : "VNh5o0uABphJDPPKl7DIDTSy0yP2",
+        "user_type" : "Other"
+      }
+    },
+    "Z3pUHgLkHZcQz8PkmKXzbglKlC03" : {
+      "ewallet" : {
+        "deduct" : 1,
+        "payment" : false,
+        "remain" : 99999,
+        "topup" : ""
+      },
+      "medicineDetails" : {
+        "called" : false,
+        "counterNo" : "",
+        "getQnum" : false,
+        "icNo" : "978899019876",
+        "position" : "",
+        "qNumber" : "",
+        "recall" : false,
+        "scanned" : false
+      },
+      "online" : true,
+      "queueDetails" : {
+        "called" : false,
+        "cancel" : false,
+        "drName" : "",
+        "getQnum" : false,
+        "position" : "",
+        "queueNo" : "",
+        "recall" : false,
+        "roomNo" : "",
+        "service" : ""
+      },
+      "userInfo" : {
+        "address" : "UTM ktdi",
+        "age" : "30",
+        "email" : "lkwong1997@gmail.com",
+        "fixed_type" : "OKU",
+        "gender" : "Male",
+        "ic" : "978899019876",
+        "name" : "Wong Lit Kwong",
+        "nationality" : "Malaysian",
+        "occupation" : "Software Developer",
+        "password" : "lkwong",
+        "phone_no" : "0108298221",
+        "race" : "Indian",
+        "userId" : "Z3pUHgLkHZcQz8PkmKXzbglKlC03",
+        "user_type" : "OKU"
+      }
+    },
+    "ZyMWKZtRQhVRJx9icpWjg6GQkcG2" : {
+      "ewallet" : {
+        "deduct" : 1,
+        "payment" : false,
+        "remain" : 17,
+        "topup" : ""
+      },
+      "medicineDetails" : {
+        "called" : false,
+        "counterNo" : "",
+        "getQnum" : false,
+        "icNo" : "971221345610",
+        "position" : "",
+        "qNumber" : "",
+        "recall" : false,
+        "scanned" : false
+      },
+      "online" : true,
+      "queueDetails" : {
+        "called" : false,
+        "cancel" : false,
+        "drName" : "",
+        "getQnum" : false,
+        "position" : "",
+        "queueNo" : "",
+        "recall" : false,
+        "roomNo" : "",
+        "service" : ""
+      },
+      "userInfo" : {
+        "address" : "1, Ktdi",
+        "age" : "22",
+        "email" : "yang@gmail.com",
+        "gender" : "Male",
+        "ic" : "971221345610",
+        "name" : "Yang",
+        "nationality" : "Malaysian",
+        "occupation" : "Student",
+        "password" : "000000",
+        "phone_no" : "0122345617",
+        "race" : "Chinese",
+        "userId" : "ZyMWKZtRQhVRJx9icpWjg6GQkcG2",
+        "user_type" : "Other"
+      }
+    },
+    "gWYVfHue40NHgicgt3Li4QbGxQ42" : {
+      "ewallet" : {
+        "deduct" : 1,
+        "payment" : false,
+        "remain" : -1,
+        "topup" : 0
+      },
+      "medicineDetails" : {
+        "called" : false,
+        "counterNo" : "",
+        "getQnum" : false,
+        "icNo" : "971005015044",
+        "position" : "",
+        "qNumber" : "",
+        "recall" : false,
+        "scanned" : false
+      },
+      "online" : true,
+      "queueDetails" : {
+        "called" : false,
+        "cancel" : false,
+        "drName" : "",
+        "getQnum" : false,
+        "position" : "",
+        "queueNo" : "",
+        "recall" : false,
+        "roomNo" : "",
+        "service" : ""
+      },
+      "userInfo" : {
+        "address" : "1234 jalan hey",
+        "age" : "22",
+        "email" : "wanni@gmail.com",
+        "fixed_type" : "Other",
+        "gender" : "Female",
+        "ic" : "971005015044",
+        "name" : "Wong Wan Ni",
+        "nationality" : "Malaysian",
+        "occupation" : "Student",
+        "password" : "971005015044",
+        "phone_no" : "0176061005",
+        "race" : "Chinese",
+        "userId" : "gWYVfHue40NHgicgt3Li4QbGxQ42",
+        "user_type" : "Other"
+      }
+    },
+    "sMc14Xp0DTcEN0Rq8pj3xWMU7ir2" : {
+      "ewallet" : {
+        "deduct" : 1,
+        "payment" : false,
+        "remain" : 8888,
+        "topup" : 8888
+      },
+      "medicineDetails" : {
+        "called" : false,
+        "counterNo" : "",
+        "getQnum" : false,
+        "icNo" : "981130017896",
+        "position" : "",
+        "qNumber" : "",
+        "recall" : false,
+        "scanned" : false
+      },
+      "online" : false,
+      "queueDetails" : {
+        "called" : false,
+        "cancel" : false,
+        "drName" : "",
+        "getQnum" : false,
+        "position" : "",
+        "queueNo" : "",
+        "recall" : false,
+        "roomNo" : "",
+        "service" : ""
+      },
+      "userInfo" : {
+        "address" : "Your heart",
+        "age" : "13",
+        "email" : "aurora@gmail.com",
+        "fixed_type" : "Other",
+        "gender" : "Female",
+        "ic" : "981130017896",
+        "name" : "Aurora ",
+        "nationality" : "Malaysian",
+        "occupation" : "Student",
+        "password" : "aurora123r",
+        "phone_no" : "0199887873",
+        "race" : "Chinese",
+        "userId" : "sMc14Xp0DTcEN0Rq8pj3xWMU7ir2",
+        "user_type" : "Other"
+      }
+    }
+  }
+}

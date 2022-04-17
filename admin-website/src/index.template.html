@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title><%= htmlWebpackPlugin.options.productName %></title>
+
+    <meta charset="utf-8">
+    <meta name="description" content="<%= htmlWebpackPlugin.options.productDescription %>">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="msapplication-tap-highlight" content="no">
+    <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width<% if (htmlWebpackPlugin.options.ctx.mode.cordova || htmlWebpackPlugin.options.ctx.mode.capacitor) { %>, viewport-fit=cover<% } %>">
+
+    <link rel="icon" href="~assets/logo2.jpg.png" type="image/png" >
+    <link rel="icon" type="image/png" sizes="16x16" href="~assets/logo2.jpg.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="~assets/logo2.jpg.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="~assets/logo2.jpg.png">
+    <link rel="icon" type="image/ico" href="~assets/logo2.jpg.ico">
+  </head>
+  <body>
+    <!-- DO NOT touch the following DIV -->
+    <div id="q-app"></div>
+    <!-- The core Firebase JS SDK is always required and must be listed first -->
+    <!-- <script src="/__/firebase/7.2.2/firebase-app.js"></script> -->
+
+    <!-- TODO: Add SDKs for Firebase products that you want to use
+        https://firebase.google.com/docs/web/setup#available-libraries -->
+    <!-- <script src="/__/firebase/7.2.2/firebase-analytics.js"></script> -->
+
+    <!-- Initialize Firebase -->
+    <!-- <script src="/__/firebase/init.js"></script> -->
+  </body>
+</html>
